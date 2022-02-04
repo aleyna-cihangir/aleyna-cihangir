@@ -1,6 +1,7 @@
 ## Hallo, Ich bin Aleyna👋
 
 🔭 I’m currently working on Python 
+
 🌱 I’m currently learning Artificial Intelligence
 
 <br />
@@ -9,7 +10,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail] 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 
-
+### Reach out to me 
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
 
