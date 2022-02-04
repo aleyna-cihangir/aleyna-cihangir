@@ -3,6 +3,7 @@
 🔭 I’m currently working on Python 
 
 <br />
+
 ### Reach out to me 
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail] 
