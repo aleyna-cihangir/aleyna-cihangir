@@ -1,4 +1,4 @@
-## Hallo, Ich bin Aleyna👋
+## Hi, I'm Aleyna Cihangir👋
 
 🔭 I’m currently working on Python 
 
