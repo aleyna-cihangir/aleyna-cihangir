@@ -12,7 +12,7 @@
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
 <br />
-<summary>:bulb: Github Stats </summary>
+<summary>:bulb: Aleyna Cihangir's Github Stats </summary>
 
-![Aleyna Cihangir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
