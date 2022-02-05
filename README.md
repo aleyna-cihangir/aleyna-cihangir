@@ -14,7 +14,7 @@
 <br />
 <details>
   <summary>:bulb: Github Stats </summary>
-  <img src ="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)]"  >
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
 
 </details>
