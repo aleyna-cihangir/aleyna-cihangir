@@ -16,4 +16,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
-
+![aleyna-cihangir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleyna-cihangir)
