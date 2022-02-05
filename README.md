@@ -12,11 +12,7 @@
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
 <br />
-<details>
-  <summary>:bulb: Github Stats </summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
-
-
-</details>
+<summary>:bulb: Github Stats </summary>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
 
