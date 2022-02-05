@@ -13,6 +13,7 @@
 [gmail]: aleynaacihangir@gmail.com
 <br />
 <summary>:bulb: Github Stats </summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
 
