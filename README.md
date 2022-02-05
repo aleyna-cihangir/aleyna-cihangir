@@ -11,7 +11,7 @@
 
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
-
+<br />
 <details>
 <summary> : bulb: Github Stats </summary>
 
