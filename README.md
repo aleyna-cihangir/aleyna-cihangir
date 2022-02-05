@@ -13,7 +13,7 @@
 [gmail]: aleynaacihangir@gmail.com
 <br />
 <details>
-  <summary> : bulb: Github Stats </summary>
+  <summary>:bulb: Github Stats </summary>
 
 
 </details>
