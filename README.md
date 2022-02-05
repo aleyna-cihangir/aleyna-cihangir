@@ -17,6 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
-![[Aleyna Cihangir's GitHub stats]](https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
+![[Aleyna Cihangir's GitHub stats]](https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&border_color=white)
 
 
