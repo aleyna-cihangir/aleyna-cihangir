@@ -12,7 +12,8 @@
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
 <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
 
 ![[Aleyna Cihangir's GitHub stats]](https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
+
