@@ -14,8 +14,9 @@
 <br />
 <details>
   <summary>:bulb: Github Stats </summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir&layout=compact) 
 
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir&layout=compact)
+
