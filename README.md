@@ -12,3 +12,10 @@
 [linkedin]: https://www.linkedin.com/in/aleynacihangir
 [gmail]: aleynaacihangir@gmail.com
 
+<details>
+<summary> : bulb: Github Stats </summary>
+
+
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
