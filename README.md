@@ -14,5 +14,5 @@
 <br />
 <summary>:bulb: Aleyna Cihangir's Github Stats </summary>
 
-!(https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=aleyna-cihangir&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-cihangir)
