@@ -1,6 +1,6 @@
 ## Hi, I'm Aleyna Cihangir👋
 
-🔭 I’m currently working on Python 
+🔭 I’m currently working on Python and Java
 
 <br />
 
